@@ -1,2 +1,2 @@
-# Henrry-new
-es una prueba de el botcam  
+este proyecto es nuevo 
+se necita comandos.git 
